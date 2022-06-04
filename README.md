@@ -1,8 +1,11 @@
 # Aria2-SwiftUI
 ## An Aria2 Client Powered by SwiftUI
-
+Demo preview on YouTube [todo]
+### iOS: iPhone, iPad, Mac
 ![iPhone](./Screenshots/iPhone-combine.png)
 ![iPad](./Screenshots/iPad.jpeg)
+
+### Mac menubar tool
 Mac menubar tool [to do]
 
 ## Features: 
@@ -12,20 +15,17 @@ Mac menubar tool [to do]
 - [ ] iCloud sync
 - [ ] Font (Monaco), APP lock
 - [ ] sort, search
-<!-- - [ ] Notification  -->
 - [ ] iOS Widget
 - [ ] SSL (to test)
+<!-- - [ ] Notification  -->
 <!-- - [ ] Design logo -->
 
-### Todo
+### Todo features
 - [ ] multi connections; card (grid) view
 - [ ] notification (background) on iOS ?
 - [ ] iOS widget, watchOS?, tvOS?
 - [ ] uTorrent?, qBittorrent?, Transmission?
 
-## iOS: iPhone, iPad, Mac
-
-## Mac menubar tool
 
 <!-- ## Mac: Catalyt -->
 
@@ -33,8 +33,8 @@ Mac menubar tool [to do]
 
 <!-- ## Apple TV -->
 
-## TestFlight
-https://testflight.apple.com/join/0IKi3DNF
+## Usage and Contact
+TestFlight: https://testflight.apple.com/join/0IKi3DNF
 
 Telegram: https://t.me/+vtlADdgU3kcyZTNl
 
